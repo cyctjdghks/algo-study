@@ -15,6 +15,7 @@ public class Card2 {
 		
 		Scanner sc = new Scanner(System.in);
 		int N = 0;
+		
 		// LinkedList 사용
 		// 배열에서 자주 삽입, 삭제가 이루어지는 경우 용이하여 ArrayList보다 선호됨
 		List<Integer> card = new LinkedList<Integer>();
