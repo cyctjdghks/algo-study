@@ -7,7 +7,6 @@ public class PrimeNumber {
 4
 1 3 5 7
 
-
 */
 	public static void main(String[] args) {
 		// 주어진 N개의 수 중에서 소수의 갯수 구하기
