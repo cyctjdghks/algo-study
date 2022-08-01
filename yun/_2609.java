@@ -27,7 +27,7 @@ public class Main {
 		Scanner sc = new Scanner(System.in);
 		int a = sc.nextInt();
 		int b = sc.nextInt();
-		
+
 		int gcd = gcd(a, b);
 		System.out.println(gcd);
 		System.out.println(a * b / gcd);
